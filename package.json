@@ -1,0 +1,23 @@
+{
+  "name": "laravel-vue-api",
+  "version": "1.0.0",
+  "description": "Simplify laravel-vue calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalmat/laravel-vue-api.git"
+  },
+  "keywords": [
+    "Laravel",
+    "Vue"
+  ],
+  "author": "Mathieu LALLEMAND",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lalmat/laravel-vue-api/issues"
+  },
+  "homepage": "https://github.com/lalmat/laravel-vue-api#readme"
+}

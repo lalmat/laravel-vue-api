@@ -1,5 +1,5 @@
 {
-  "name": "laravel-vue-api",
+  "name": "@lalmat/laravel-vue-api",
   "version": "1.0.0",
   "description": "Simplify laravel-vue calls",
   "main": "index.js",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/lalmat/laravel-vue-api/issues"
   },
-  "homepage": "https://github.com/lalmat/laravel-vue-api#readme"
+  "homepage": "https://github.com/lalmat/laravel-vue-api#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {}
 }
